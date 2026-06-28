@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {"item": "echogems:celestial_prism"},
+    "title": {"text": "Beyond the Stars"},
+    "description": {"text": "Obtain a Celestial Prism from The End."},
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "echogems:void_shard",
+  "criteria": {
+    "pickup_celestial_prism": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {"items": [{"items": ["echogems:celestial_prism"]}]}
+    }
+  }
+}

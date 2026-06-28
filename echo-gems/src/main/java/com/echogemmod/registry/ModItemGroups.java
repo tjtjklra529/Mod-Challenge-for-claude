@@ -15,11 +15,43 @@ public class ModItemGroups {
             .displayName(Text.translatable("itemgroup.echogems.echo_gems"))
             .icon(() -> new ItemStack(ModItems.ECHO_GEM))
             .entries((ctx, entries) -> {
+                // Raw materials
                 entries.add(ModItems.ECHO_GEM);
+                entries.add(ModItems.VOID_SHARD);
+                entries.add(ModItems.CELESTIAL_PRISM);
+
+                // Ores and blocks
                 entries.add(ModItems.ECHO_CRYSTAL_ORE_ITEM);
+                entries.add(ModItems.VOID_CRYSTAL_ORE_ITEM);
+                entries.add(ModItems.CELESTIAL_ORE_ITEM);
+                entries.add(ModItems.ECHO_CRYSTAL_BLOCK_ITEM);
+                entries.add(ModItems.VOID_CRYSTAL_BLOCK_ITEM);
+                entries.add(ModItems.CELESTIAL_BLOCK_ITEM);
+                entries.add(ModItems.ECHO_LANTERN_ITEM);
+                entries.add(ModItems.VOID_INFUSER_ITEM);
+
+                // Echo armor (T1)
+                entries.add(ModItems.ECHO_HELMET);
+                entries.add(ModItems.ECHO_CHESTPLATE);
+                entries.add(ModItems.ECHO_LEGGINGS);
+                entries.add(ModItems.ECHO_BOOTS);
+
+                // Echo tools (T1)
                 entries.add(ModItems.ECHO_PICKAXE);
                 entries.add(ModItems.ECHO_SWORD);
-                entries.add(ModItems.ECHO_BOOTS);
+
+                // Void tools (T2)
+                entries.add(ModItems.VOID_SWORD);
+                entries.add(ModItems.VOID_PICKAXE);
+                entries.add(ModItems.VOID_AXE);
+
+                // Celestial (T3)
+                entries.add(ModItems.CELESTIAL_SWORD);
+                entries.add(ModItems.CELESTIAL_STAFF);
+                entries.add(ModItems.CELESTIAL_BOOTS);
+
+                // Consumables
+                entries.add(ModItems.ECHO_CHARGE);
             })
             .build();
 

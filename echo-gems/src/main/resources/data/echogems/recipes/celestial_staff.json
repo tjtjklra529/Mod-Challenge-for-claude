@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  C","CBC","C  "],
+  "key": {
+    "C": {"item": "echogems:celestial_prism"},
+    "B": {"item": "minecraft:blaze_rod"}
+  },
+  "result": {"item": "echogems:celestial_staff", "count": 1}
+}

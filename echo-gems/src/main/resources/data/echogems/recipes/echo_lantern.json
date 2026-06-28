@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GGG","GEG","GGG"],
+  "key": {
+    "G": {"item": "minecraft:glass_pane"},
+    "E": {"item": "echogems:echo_gem"}
+  },
+  "result": {"item": "echogems:echo_lantern", "count": 1}
+}

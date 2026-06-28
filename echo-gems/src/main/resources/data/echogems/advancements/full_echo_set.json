@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {"item": "echogems:echo_chestplate"},
+    "title": {"text": "Full Resonance"},
+    "description": {"text": "Equip a complete set of Echo armor to unlock the set bonus."},
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "echogems:echo_tool",
+  "criteria": {
+    "wear_helmet":     {"trigger": "minecraft:equipped_item","conditions": {"item": {"items": ["echogems:echo_helmet"]}}},
+    "wear_chestplate": {"trigger": "minecraft:equipped_item","conditions": {"item": {"items": ["echogems:echo_chestplate"]}}},
+    "wear_leggings":   {"trigger": "minecraft:equipped_item","conditions": {"item": {"items": ["echogems:echo_leggings"]}}},
+    "wear_boots":      {"trigger": "minecraft:equipped_item","conditions": {"item": {"items": ["echogems:echo_boots"]}}}
+  },
+  "requirements": [["wear_helmet"],["wear_chestplate"],["wear_leggings"],["wear_boots"]]
+}

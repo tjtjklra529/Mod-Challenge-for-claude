@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["VEV","EEE","VSV"],
+  "key": {
+    "V": {"item": "echogems:void_shard"},
+    "E": {"item": "echogems:echo_gem"},
+    "S": {"item": "minecraft:stone"}
+  },
+  "result": {"item": "echogems:void_infuser", "count": 1}
+}

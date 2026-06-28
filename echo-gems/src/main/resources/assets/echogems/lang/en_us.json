@@ -1,9 +1,40 @@
 {
   "itemgroup.echogems.echo_gems": "Echo Gems",
 
-  "item.echogems.echo_gem": "Echo Gem",
-  "block.echogems.echo_crystal_ore": "Echo Crystal Ore",
-  "item.echogems.echo_pickaxe": "Echo Pickaxe",
-  "item.echogems.echo_sword": "Echo Sword",
-  "item.echogems.echo_boots": "Echo Boots"
+  "item.echogems.echo_gem":        "Echo Gem",
+  "item.echogems.void_shard":      "Void Shard",
+  "item.echogems.celestial_prism": "Celestial Prism",
+
+  "block.echogems.echo_crystal_ore":   "Echo Crystal Ore",
+  "block.echogems.void_crystal_ore":   "Void Crystal Ore",
+  "block.echogems.celestial_ore":      "Celestial Ore",
+  "block.echogems.echo_crystal_block": "Echo Crystal Block",
+  "block.echogems.void_crystal_block": "Void Crystal Block",
+  "block.echogems.celestial_block":    "Celestial Block",
+  "block.echogems.echo_lantern":       "Echo Lantern",
+  "block.echogems.void_infuser":       "Void Infuser",
+
+  "item.echogems.echo_helmet":     "Echo Helmet",
+  "item.echogems.echo_chestplate": "Echo Chestplate",
+  "item.echogems.echo_leggings":   "Echo Leggings",
+  "item.echogems.echo_boots":      "Echo Boots",
+  "item.echogems.echo_pickaxe":    "Echo Pickaxe",
+  "item.echogems.echo_sword":      "Echo Sword",
+
+  "item.echogems.void_sword":      "Void Sword",
+  "item.echogems.void_pickaxe":    "Void Pickaxe",
+  "item.echogems.void_axe":        "Void Axe",
+
+  "item.echogems.celestial_sword": "Celestial Sword",
+  "item.echogems.celestial_staff": "Celestial Staff",
+  "item.echogems.celestial_boots": "Celestial Boots",
+
+  "item.echogems.echo_charge":     "Echo Charge",
+
+  "effect.echogems.echo_vision":   "Echo Vision",
+
+  "item.minecraft.potion.effect.echogems.echo_vision":       "Potion of Echo Vision",
+  "item.minecraft.potion.effect.echogems.long_echo_vision":  "Potion of Echo Vision (Long)",
+  "item.minecraft.splash_potion.effect.echogems.echo_vision":"Splash Potion of Echo Vision",
+  "item.minecraft.lingering_potion.effect.echogems.echo_vision":"Lingering Potion of Echo Vision"
 }

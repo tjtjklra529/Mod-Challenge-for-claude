@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["VVV","VVV","VVV"],
+  "key": {"V": {"item": "echogems:void_shard"}},
+  "result": {"item": "echogems:void_crystal_block", "count": 1}
+}

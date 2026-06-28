@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {"item": "echogems:void_shard"},
+    "title": {"text": "Into the Void"},
+    "description": {"text": "Obtain a Void Shard from the Nether."},
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "echogems:echo_tool",
+  "criteria": {
+    "pickup_void_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {"items": [{"items": ["echogems:void_shard"]}]}
+    }
+  }
+}

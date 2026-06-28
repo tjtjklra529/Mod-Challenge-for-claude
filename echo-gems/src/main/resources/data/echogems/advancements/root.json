@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {"item": "echogems:echo_gem"},
+    "title": {"text": "The Echo Awakens"},
+    "description": {"text": "Mine Echo Crystal Ore deep underground."},
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mine_echo_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": ["echogems:echo_gem"]}]
+      }
+    }
+  }
+}

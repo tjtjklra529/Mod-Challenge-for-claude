@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item": "echogems:echo_crystal_block"}],
+  "result": {"item": "echogems:echo_gem", "count": 9}
+}

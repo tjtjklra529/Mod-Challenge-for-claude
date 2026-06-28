@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "echogems:echo_crystal_ore",
+    "echogems:void_crystal_ore",
+    "echogems:celestial_ore",
+    "echogems:echo_crystal_block",
+    "echogems:void_crystal_block",
+    "echogems:celestial_block",
+    "echogems:echo_lantern",
+    "echogems:void_infuser"
+  ]
+}

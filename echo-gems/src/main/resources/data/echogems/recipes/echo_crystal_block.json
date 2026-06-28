@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["EEE","EEE","EEE"],
+  "key": {"E": {"item": "echogems:echo_gem"}},
+  "result": {"item": "echogems:echo_crystal_block", "count": 1}
+}

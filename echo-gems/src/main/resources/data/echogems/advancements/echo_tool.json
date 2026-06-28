@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {"item": "echogems:echo_pickaxe"},
+    "title": {"text": "Resonant Craftsmanship"},
+    "description": {"text": "Craft any Echo tool or armor piece."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "echogems:root",
+  "criteria": {
+    "craft_echo_pickaxe":    {"trigger": "minecraft:inventory_changed","conditions": {"items": [{"items": ["echogems:echo_pickaxe"]}]}},
+    "craft_echo_sword":      {"trigger": "minecraft:inventory_changed","conditions": {"items": [{"items": ["echogems:echo_sword"]}]}},
+    "craft_echo_helmet":     {"trigger": "minecraft:inventory_changed","conditions": {"items": [{"items": ["echogems:echo_helmet"]}]}},
+    "craft_echo_chestplate": {"trigger": "minecraft:inventory_changed","conditions": {"items": [{"items": ["echogems:echo_chestplate"]}]}}
+  },
+  "requirements": [["craft_echo_pickaxe","craft_echo_sword","craft_echo_helmet","craft_echo_chestplate"]]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["V","V","S"],
+  "key": {
+    "V": {"item": "echogems:void_shard"},
+    "S": {"item": "minecraft:stick"}
+  },
+  "result": {"item": "echogems:void_sword", "count": 1}
+}

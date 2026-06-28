@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 5,
+    "discard_chance_on_air_exposure": 0.0,
+    "targets": [{
+      "target": {"type": "minecraft:tag","tag": "minecraft:nether_ore_replaceables"},
+      "state": {"Name": "echogems:void_crystal_ore"}
+    }]
+  }
+}

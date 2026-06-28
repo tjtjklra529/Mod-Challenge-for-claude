@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["C C","C C"],
+  "key": {"C": {"item": "echogems:celestial_prism"}},
+  "result": {"item": "echogems:celestial_boots", "count": 1}
+}

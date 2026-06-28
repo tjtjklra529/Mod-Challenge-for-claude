@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" E ","EGE"," E "],
+  "key": {
+    "E": {"item": "echogems:echo_gem"},
+    "G": {"item": "minecraft:gunpowder"}
+  },
+  "result": {"item": "echogems:echo_charge", "count": 4}
+}
