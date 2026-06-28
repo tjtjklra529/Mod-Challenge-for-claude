@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "echogems",
+  "version": "${version}",
+  "name": "Echo Gems",
+  "description": "A progression mod featuring Echo Crystal Ore and powerful Echo-infused tools with unique abilities.",
+  "authors": [
+    "EchoGemsDev"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.echogemmod.EchoGemsMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

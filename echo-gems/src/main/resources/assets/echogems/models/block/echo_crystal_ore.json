@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "echogems:block/echo_crystal_ore"
+  }
+}
