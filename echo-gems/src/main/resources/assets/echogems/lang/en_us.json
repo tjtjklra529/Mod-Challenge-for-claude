@@ -21,20 +21,30 @@
   "item.echogems.echo_pickaxe":    "Echo Pickaxe",
   "item.echogems.echo_sword":      "Echo Sword",
 
+  "item.echogems.void_helmet":     "Void Helmet",
+  "item.echogems.void_chestplate": "Void Chestplate",
+  "item.echogems.void_leggings":   "Void Leggings",
+  "item.echogems.void_boots":      "Void Boots",
   "item.echogems.void_sword":      "Void Sword",
   "item.echogems.void_pickaxe":    "Void Pickaxe",
   "item.echogems.void_axe":        "Void Axe",
 
-  "item.echogems.celestial_sword": "Celestial Sword",
-  "item.echogems.celestial_staff": "Celestial Staff",
-  "item.echogems.celestial_boots": "Celestial Boots",
+  "item.echogems.celestial_helmet":     "Celestial Helmet",
+  "item.echogems.celestial_chestplate": "Celestial Chestplate",
+  "item.echogems.celestial_leggings":   "Celestial Leggings",
+  "item.echogems.celestial_boots":      "Celestial Boots",
+  "item.echogems.celestial_sword":      "Celestial Sword",
+  "item.echogems.celestial_staff":      "Celestial Staff",
 
-  "item.echogems.echo_charge":     "Echo Charge",
+  "item.echogems.echo_charge":  "Echo Charge",
+  "item.echogems.echo_mirror":  "Echo Mirror",
+  "item.echogems.echo_magnet":  "Echo Magnet",
+  "item.echogems.void_bomb":    "Void Bomb",
 
-  "effect.echogems.echo_vision":   "Echo Vision",
+  "effect.echogems.echo_vision": "Echo Vision",
 
-  "item.minecraft.potion.effect.echogems.echo_vision":       "Potion of Echo Vision",
-  "item.minecraft.potion.effect.echogems.long_echo_vision":  "Potion of Echo Vision (Long)",
-  "item.minecraft.splash_potion.effect.echogems.echo_vision":"Splash Potion of Echo Vision",
-  "item.minecraft.lingering_potion.effect.echogems.echo_vision":"Lingering Potion of Echo Vision"
+  "item.minecraft.potion.effect.echogems.echo_vision":            "Potion of Echo Vision",
+  "item.minecraft.potion.effect.echogems.long_echo_vision":       "Potion of Echo Vision (Long)",
+  "item.minecraft.splash_potion.effect.echogems.echo_vision":     "Splash Potion of Echo Vision",
+  "item.minecraft.lingering_potion.effect.echogems.echo_vision":  "Lingering Potion of Echo Vision"
 }

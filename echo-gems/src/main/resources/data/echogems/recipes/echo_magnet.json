@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["EIE","INI","EIE"],"key":{"E":{"item":"echogems:echo_gem"},"I":{"item":"minecraft:iron_ingot"},"N":{"item":"minecraft:netherite_ingot"}},"result":{"item":"echogems:echo_magnet","count":1}}
