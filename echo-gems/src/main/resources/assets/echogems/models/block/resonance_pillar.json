@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/pillar",
+  "textures": {
+    "end":  "echogems:block/resonance_pillar_top",
+    "side": "echogems:block/resonance_pillar_side"
+  }
+}

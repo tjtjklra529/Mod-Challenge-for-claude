@@ -8,6 +8,8 @@
     "echogems:void_crystal_block",
     "echogems:celestial_block",
     "echogems:echo_lantern",
-    "echogems:void_infuser"
+    "echogems:void_infuser",
+    "echogems:echo_furnace",
+    "echogems:resonance_pillar"
   ]
 }

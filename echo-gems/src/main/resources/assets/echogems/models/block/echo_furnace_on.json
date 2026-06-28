@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top":   "echogems:block/echo_furnace_top",
+    "front": "echogems:block/echo_furnace_front_on",
+    "side":  "echogems:block/echo_furnace_side"
+  }
+}

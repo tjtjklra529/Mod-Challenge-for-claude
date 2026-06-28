@@ -13,6 +13,8 @@
   "block.echogems.celestial_block":    "Celestial Block",
   "block.echogems.echo_lantern":       "Echo Lantern",
   "block.echogems.void_infuser":       "Void Infuser",
+  "block.echogems.echo_furnace":       "Echo Furnace",
+  "block.echogems.resonance_pillar":   "Resonance Pillar",
 
   "item.echogems.echo_helmet":     "Echo Helmet",
   "item.echogems.echo_chestplate": "Echo Chestplate",
@@ -20,6 +22,7 @@
   "item.echogems.echo_boots":      "Echo Boots",
   "item.echogems.echo_pickaxe":    "Echo Pickaxe",
   "item.echogems.echo_sword":      "Echo Sword",
+  "item.echogems.echo_shovel":     "Echo Shovel",
 
   "item.echogems.void_helmet":     "Void Helmet",
   "item.echogems.void_chestplate": "Void Chestplate",
@@ -36,10 +39,20 @@
   "item.echogems.celestial_sword":      "Celestial Sword",
   "item.echogems.celestial_staff":      "Celestial Staff",
 
-  "item.echogems.echo_charge":  "Echo Charge",
-  "item.echogems.echo_mirror":  "Echo Mirror",
-  "item.echogems.echo_magnet":  "Echo Magnet",
-  "item.echogems.void_bomb":    "Void Bomb",
+  "item.echogems.echo_charge":      "Echo Charge",
+  "item.echogems.echo_mirror":      "Echo Mirror",
+  "item.echogems.echo_magnet":      "Echo Magnet",
+  "item.echogems.void_bomb":        "Void Bomb",
+  "item.echogems.void_cloak":       "Void Cloak",
+  "item.echogems.celestial_totem":  "Celestial Totem",
+
+  "item.echogems.echo_arrow":      "Echo Arrow",
+  "item.echogems.void_arrow":      "Void Arrow",
+  "item.echogems.celestial_arrow": "Celestial Arrow",
+
+  "item.echogems.echo_candy":      "Echo Candy",
+  "item.echogems.void_truffle":    "Void Truffle",
+  "item.echogems.celestial_fruit": "Celestial Fruit",
 
   "effect.echogems.echo_vision": "Echo Vision",
 

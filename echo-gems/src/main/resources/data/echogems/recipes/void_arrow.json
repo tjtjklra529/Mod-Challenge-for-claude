@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["V","S","F"],"key":{"V":{"item":"echogems:void_shard"},"S":{"item":"minecraft:stick"},"F":{"item":"minecraft:feather"}},"result":{"item":"echogems:void_arrow","count":8}}

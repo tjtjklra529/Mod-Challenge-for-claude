@@ -55,6 +55,20 @@ public class ModItemGroups {
                 entries.add(ModItems.ECHO_MIRROR);
                 entries.add(ModItems.ECHO_MAGNET);
                 entries.add(ModItems.VOID_BOMB);
+                entries.add(ModItems.VOID_CLOAK);
+                entries.add(ModItems.CELESTIAL_TOTEM);
+                // Arrows
+                entries.add(ModItems.ECHO_ARROW);
+                entries.add(ModItems.VOID_ARROW);
+                entries.add(ModItems.CELESTIAL_ARROW);
+                // Food
+                entries.add(ModItems.ECHO_CANDY);
+                entries.add(ModItems.VOID_TRUFFLE);
+                entries.add(ModItems.CELESTIAL_FRUIT);
+                // Extra tools & blocks
+                entries.add(ModItems.ECHO_SHOVEL);
+                entries.add(ModItems.ECHO_FURNACE_ITEM);
+                entries.add(ModItems.RESONANCE_PILLAR_ITEM);
             })
             .build();
 
